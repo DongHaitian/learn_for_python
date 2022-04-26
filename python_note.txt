@@ -1,0 +1,10 @@
+数据类型
+整数型、浮点型、字符型、list、tuple、布尔
+循环
+for {形参} in {可迭代对象}
+dict
+key-value值，key和value为一一对应，且key为不可变量
+列表生成
+在for…in语法中引用为[for x in range(a,b)]
+while
+只要条件满足就不断循环，直到不满足条件
